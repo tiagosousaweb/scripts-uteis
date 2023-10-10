@@ -29,7 +29,7 @@ var urlBackRedirect = '//' + window.location.hostname + '/PATH_RMKT'
 
 # Notificações de Compra (Gatilho da Escassez):
 
-![Logo do R](http://developer.r-project.org/Logo/Rlogo-5.png)
+![Notificações de Compra](https://raw.githubusercontent.com/tiagosousaweb/scripts-uteis/main/images/img1.png)
 
 ```
 <script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.6.0/jquery.min.js"></script>
@@ -63,6 +63,8 @@ Se desejar, altere os nomes.
 Altere # para sua url em var URL_FINAL = '#';
 
 # Contador regressivo
+
+![Contador Regressivo](https://raw.githubusercontent.com/tiagosousaweb/scripts-uteis/main/images/img2.png)
 
 Código do contador, coloque onde o contador deverá aparecer:
 
