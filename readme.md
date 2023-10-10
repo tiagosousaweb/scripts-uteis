@@ -180,7 +180,8 @@ No rodapé da página coloque o seguinte código:
     document.addEventListener('contextmenu', function (e) {
         e.preventDefault()
     }, true);
-</script>```
-
+</script>
+```
+<hr/>
 Os scripts existentes aqui foram baseados no repositório abaixo:
 https://github.com/lzanette/perfect-pay-scripts
