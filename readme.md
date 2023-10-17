@@ -182,6 +182,16 @@ No rodapé da página coloque o seguinte código:
     }, true);
 </script>
 ```
+# Script redirecionar depois de determinado tempo
+
+```
+<script>
+    setTimeout(function() {
+    window.location.href = "URL_AQUI";
+}, 2000);
+</script>
+```
+
 <hr/>
 Os scripts existentes aqui foram baseados no repositório abaixo:
 https://github.com/lzanette/perfect-pay-scripts
